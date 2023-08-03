@@ -7,7 +7,6 @@ Tente reproduzir fielmente o layout. E elabore as duas páginas exibidas no víd
 Para isto crie os passos que julgar necessário e utilize o conhecimento de HTML e CSS adquiridos até a presente data. 
 <br>
 <br>
-<br>
 Posteriormente,<br> 
 após o fim da execução da atividade, você deve colocar a pasta do seu projeto em um repositório chamado
 <br>
