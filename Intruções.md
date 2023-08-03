@@ -4,4 +4,13 @@ Noticias Cidade.
 A sua página deve ficar semelhante à página seguinte (no arquivo video). 
 Tente reproduzir fielmente o layout. 
 Para isto crie os passos que julgar necessário e utilize o conhecimento de HTML e CSS adquiridos até a presente data. 
+
+Posteriormente, 
+após o fim da execução da atividade, você deve colocar a pasta do seu projeto em um repositório chamado
+
+ProjetoCidadeOnline
+
+para que o seu projeto seja avaliado. 
+Atenciosamente, 
+
 Boa sorte!
